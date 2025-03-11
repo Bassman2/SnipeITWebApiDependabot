@@ -1,0 +1,2 @@
+# SnipeITWebApiDependabot
+Dependabot for SnipeITWebApi
