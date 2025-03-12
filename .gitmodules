@@ -1,0 +1,6 @@
+[submodule "SnipeITWebApi"]
+	path = SnipeITWebApi
+	url = https://github.com/Bassman2/SnipeITWebApi
+[submodule "WebServiceClient"]
+	path = WebServiceClient
+	url = https://github.com/Bassman2/WebServiceClient
